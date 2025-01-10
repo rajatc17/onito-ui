@@ -1,0 +1,17 @@
+{
+	"recommendations": [
+		"SonarSource.sonarlint-vscode",
+		"aaron-bond.better-comments",
+		"dbaeumer.vscode-eslint",
+		"eamodio.gitlens",
+		"editorconfig.editorconfig",
+		"esbenp.prettier-vscode",
+		"figma.figma-vscode-extension",
+		"github.vscode-github-actions",
+		"pkief.material-icon-theme",
+		"pranaygp.vscode-css-peek",
+		"streetsidesoftware.code-spell-checker",
+		"tyriar.sort-lines",
+		"usernamehw.errorlens"
+	]
+}
